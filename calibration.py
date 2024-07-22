@@ -5,9 +5,9 @@ import numpy as np
 from astropy.io import fits
 
 # Define the directory paths for darks, flats, and lights
-darks_directory = '/Users/abiodunbabalola/Documents/UTRGV/School/Physics/Grad school/Research/2021-01-30/Workshop/Darks'
-flats_directory = '/Users/abiodunbabalola/Documents/UTRGV/School/Physics/Grad school/Research/2021-01-30/Workshop/Flats'
-lights_directory = '/Users/abiodunbabalola/Documents/UTRGV/School/Physics/Grad school/Research/2021-01-30/Workshop/Lights'
+darks_directory = 'Darks Path'
+flats_directory = 'Flat Path''
+lights_directory = 'Lights Path'
 
 # Combine the dark frames
 dark_frames = []
