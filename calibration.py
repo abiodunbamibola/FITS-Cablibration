@@ -6,7 +6,7 @@ from astropy.io import fits
 
 # Define the directory paths for darks, flats, and lights
 darks_directory = 'Darks Path'
-flats_directory = 'Flat Path''
+flats_directory = 'Flat Path'
 lights_directory = 'Lights Path'
 
 # Combine the dark frames
